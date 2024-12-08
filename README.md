@@ -1,4 +1,5 @@
 # To_Do_List
+Task manager with help of MongoDB.
 - This Python script leverages MongoDB to create a simple yet effective to-do list manager. 
 
 - It connects to a local MongoDB database, todo_db, and manages tasks within the tasks collection.
